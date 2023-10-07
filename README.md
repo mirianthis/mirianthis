@@ -1,6 +1,6 @@
 [![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mirianthis Apostolidis</h1>
-<h3 align="center">Web Application Developer - Data Engineer | 🎓 Harokopio University of Athens</h3>
+<h3 align="center">Software Engineer | 🎓 Harokopio University of Athens</h3>
 <img align="right" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirianthis&label=Profile%20views&color=0e75b6&style=flat" alt="mirianthis" /> </p>
