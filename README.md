@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirianthis&label=Profile%20views&color=0e75b6&style=flat" alt="mirianthis" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Android , Java**
+- 💬 Ask me about **Angular , Python , Django**
 
-- 📫 How to reach me **mirianthis2000@gmail.com**
+- 📫 How to reach me **amirianthis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
